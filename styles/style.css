@@ -1,7 +1,7 @@
 html {
     font-size: 10px;
     font-family: "Geologica", sans-serif; 
-    background-color: #e4e4e4;
+    background-color: #ffffff;
   }
 h1 {
   font-size: 60px;
@@ -16,16 +16,18 @@ li {
   font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
+  color: #ba6b57;
 }
 
 body {
     width: 600px;
     margin: 0 auto;
-    background-color: #ffffff;
+    background-color: #e1f1fd;
     padding: 0 20px 20px 20px;
     border: 5px solid black;
   }
 img {
   display: block;
   margin: 0 auto;
+  padding: 0 20px 20px 20px;
 }  
